@@ -111,5 +111,5 @@ Catodo (-) → GND
 2. Abra o código no Arduino IDE
 3. Faça upload para a placa
 4. Observe:
-   - LCD exibindo distância
-   - Servo reagindo a obstáculos
+ - LCD exibindo distância
+ - Servo reagindo a obstáculos
